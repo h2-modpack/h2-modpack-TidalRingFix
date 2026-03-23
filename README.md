@@ -5,7 +5,6 @@
 ## Features
 
 - Fixes a bug that gave Poseidon's cast projectiles an immunity duration, preventing them from hitting the same target twice.
-- This allows for much higher damage potential when using "Tidal Ring" with the Aspect of Circe for the Witch's Staff.
 
 ## Installation
 
