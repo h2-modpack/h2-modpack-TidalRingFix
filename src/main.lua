@@ -27,6 +27,7 @@ public.definition = {
     tooltip  = "Fixes Tidal Ring not hitting the same mob twice with Circe.",
     default  = true,
     dataMutation = true,
+    modpackModule = true,
 }
 
 -- =============================================================================
